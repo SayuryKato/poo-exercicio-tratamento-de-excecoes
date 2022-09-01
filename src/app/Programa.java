@@ -38,6 +38,7 @@ public class Programa {
 				System.out.println(e.getMessage());
 				
 			}
+			sc.close();
 
 	}
 
